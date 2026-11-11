@@ -1,6 +1,8 @@
 # OT Everyday Practice
 
-A local practice website for therapist-led digital life skills. It includes a fictional bank, a fictional phone provider, five exercises, optional hints, assistance records, and session reports. All account details and transactions are made up.
+A practice website for therapist-led digital life skills. It includes a fictional bank, a fictional phone provider, five exercises, optional hints, assistance records, and session reports. All account details and transactions are made up.
+
+[Open the practice website](https://ross.grattafiori.dev/ot-everyday-practice/).
 
 ## Run
 
